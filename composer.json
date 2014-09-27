@@ -1,0 +1,18 @@
+{
+    "name": "zaxxx/zaxcontrol",
+    "description": "Basic component functionality from ZaxCMS",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Zax",
+            "email": "zax.drummer@gmail.com"
+        }
+    ],
+    "require": {
+        "nette/application": "~2.2"
+    },
+    "require-dev": {
+        "nette/tester": "v1.2.0",
+        "nette/nette": "~2.2"
+    }
+}
